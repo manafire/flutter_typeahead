@@ -7,8 +7,8 @@ homepage: https://github.com/AbdulRahmanAlHamali/flutter_typeahead
 dependencies:
   flutter:
     sdk: flutter
-  flutter_keyboard_visibility: ^5.4.1
-  pointer_interceptor: ^0.9.3+4
+  flutter_keyboard_visibility: ^6.0.0
+  pointer_interceptor: ^0.10.1+1
 
 dev_dependencies:
   flutter_test:
@@ -16,7 +16,7 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 environment:
-  sdk: ">=2.19.0 <4.0.0"
+  sdk: '>=2.19.0 <4.0.0'
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
